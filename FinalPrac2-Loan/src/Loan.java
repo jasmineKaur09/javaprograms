@@ -1,4 +1,8 @@
 
+/**
+ * @author Jasmine Kaur
+ *
+ */
 public class Loan implements LoanConstants {
 	protected int loanNum;
 	protected String cusLname;
